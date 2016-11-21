@@ -1,0 +1,22 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.box{
+	position: absolute;
+	bottom: 300px;
+	left: 0;
+	right: 0;
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.box img{
+	border: none;
+	width: 64px;
+}
